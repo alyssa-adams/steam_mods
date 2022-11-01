@@ -25,6 +25,12 @@ if __name__ == '__main__':
                 22330, 22300, 22380, 379720, 2280, 70, 220, 883710, 4000, 292030, 1091500, 1245620, 47890, 1222670,
                 703080, 493340]
 
+    # app dict for just these keys
+    #applist = json.load(open('getapplist.json'))
+    #applist = applist["applist"]["apps"]
+    #applist = list(filter(lambda x: x['appid'] in game_ids, applist))
+    #applist_filtered = {app['appid']: app['name'] for app in applist}
+
     # track number of api calls, can't do more than 100k in 24 hours
     api_calls = 0
 
