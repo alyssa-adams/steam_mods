@@ -25,6 +25,8 @@ if __name__ == '__main__':
                 22330, 22300, 22380, 379720, 2280, 70, 220, 883710, 4000, 292030, 1091500, 1245620, 47890, 1222670,
                 703080, 493340]
 
+    # game_labels = {333640: 'Caves of Qud', 292030: 'The Witcher 3: Wild Hunt', 268500: 'XCOM 2', 230230: 'Divinity: Original Sin (Classic)', 223830: 'Xenonauts', 493340: 'Planet Coaster', 435150: 'Divinity: Original Sin 2', 379720: 'DOOM', 377160: 'Fallout 4', 373420: 'Divinity: Original Sin Enhanced Edition', 883710: 'Resident Evil 2', 881100: 'Noita', 220: 'Half-Life 2', 220200: 'Kerbal Space Program', 289070: "Sid Meier's Civilization VI", 1091500: 'Cyberpunk 2077', 70: 'Half-Life', 255710: 'Cities: Skylines', 211820: 'Starbound', 203770: 'Crusader Kings II', 200510: 'XCOM: Enemy Unknown', 72850: 'The Elder Scrolls V: Skyrim', 47890: 'The Sims™ 3', 22300: 'Fallout 3', 22330: 'The Elder Scrolls IV: Oblivion ', 22380: 'Fallout: New Vegas', 8930: "Sid Meier's Civilization V", 4000: "Garry's Mod", 2280: 'DOOM (1993)', 1245620: 'ELDEN RING', 281990: 'Stellaris', 246620: 'Plague Inc: Evolved', 1158310: 'Crusader Kings III', 244850: 'Space Engineers', 703080: 'Planet Zoo', 1224290: "Horizon's Gate", 294100: 'RimWorld', 105600: 'Terraria', 1222670: 'The Sims™ 4', 322330: "Don't Starve Together", 271590: 'Grand Theft Auto V', 413150: 'Stardew Valley'}
+
     # app dict for just these keys
     #applist = json.load(open('getapplist.json'))
     #applist = applist["applist"]["apps"]
